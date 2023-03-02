@@ -147,16 +147,3 @@ def password():
         password()
 
 password()
-
-
-# C:\Users\Rohit>cd/
-
-# C:\>cd xampp
-
-# C:\xampp>cd mysql
-
-# C:\xampp\mysql>cd bin
-
-# C:\xampp\mysql\bin>mysql -u root -p -h localhost
-
-# password ''
